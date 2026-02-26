@@ -52,3 +52,12 @@ The project follows a four-step lifecycle:
 7. Expected Outcome
 
 A standalone executable capable of managing thousands of book records with zero data loss between sessions.
+
+
+
+
+
+
+### Project Screenshots
+![Output](images/1000133241.png)
+![Data in Library](images/1000133242.png)
