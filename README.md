@@ -59,5 +59,11 @@ A standalone executable capable of managing thousands of book records with zero 
 
 
 ### Project Screenshots
+
+Output:
+
 ![Output](images/1000133241.jpg)
+
+Data in Library
+
 ![Data in Library](images/1000133242.jpg)
