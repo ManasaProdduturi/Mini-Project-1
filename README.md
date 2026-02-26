@@ -59,5 +59,5 @@ A standalone executable capable of managing thousands of book records with zero 
 
 
 ### Project Screenshots
-![Output](images/1000133241.png)
-![Data in Library](images/1000133242.png)
+![Output](images/1000133241.jpg)
+![Data in Library](images/1000133242.jpg)
