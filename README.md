@@ -10,7 +10,7 @@ Persistent Library Management System
 Mini Project 1 (PLMS)
 1. Abstract
 
-The Persistent Library Management System is a C++ application that digitalizes book inventory tracking. It allows users to add, view, and delete records while ensuring all data is saved permanently to a text file using C++ fstream.
+The Persistent Library Management System is a console-based C++ application that digitalizes book inventory tracking. It allows users to add, view, and delete records while ensuring all data is saved permanently to a text file using C++ fstream.
 
 2. Problem Statement
 
